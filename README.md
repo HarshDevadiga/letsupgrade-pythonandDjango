@@ -1,0 +1,2 @@
+# letsupgrade-pythonandDjango
+python assignments
